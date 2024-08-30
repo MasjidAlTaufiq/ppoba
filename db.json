@@ -1,0 +1,54 @@
+{
+  "events": [
+    {
+      "id": 101,
+      "category": "Daily Pray",
+      "title": "FAJR",
+      "description": "First pray of the day before sun rises",
+      "location": "Masjid Al-Taufiq, Mosque",
+      "time": "04:50 AM",
+      "petsAllowed":false,
+      "organizer": "Islamic Youth"
+    },
+    {
+      "id": 102,
+      "category": "Daily Pray",
+      "title": "Zuhr",
+      "description": "Join us on time together in Jamat we can pray",
+      "location": "Masjid Al-Taufiq, Mosque",
+      "time": "01:30 PM",
+      "petsAllowed":false,
+      "organizer": "Islamic Youth"
+    },
+    {
+      "id": 103,
+      "category": "Daily Pray",
+      "title": "ASR",
+      "description": "Join us on time together in Jamat we can pray",
+      "location": "Masjid Al-Taufiq, Mosque",
+      "time": "6:30 PM",
+      "petsAllowed":false,
+      "organizer": "Islamic Youth Group"
+    },
+    {
+      "id": 104,
+      "category": "Daily Pray",
+      "title": "Magrib",
+      "description": "Join us on time together we can do the worship to Allah",
+      "location": "Masjid Al-Taufiq",
+      "time": "08:20 PM",
+      "petsAllowed":true,
+      "organizer": "Islamic Youth Group"
+    },
+    {
+      "id": 105,
+      "category": "Dail Pray",
+      "title": "ISHA",
+      "description": "Join us Isha and Tarabi in Ramadan",
+      "location": "Masjid Al-Taufiq",
+      "time": "10:10 PM",
+      "petsAllowed":true,
+      "organizer": "Islamic Youth Group"
+    }
+  ]
+}
