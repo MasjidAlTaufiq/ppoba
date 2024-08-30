@@ -2,13 +2,13 @@
   "events": [
     {
       "id": 101,
-      "category": "Daily Pray",
-      "title": "FAJR",
-      "description": "First pray of the day before sun rises",
-      "location": "Masjid Al-Taufiq, Mosque",
-      "time": "04:50 AM",
+      "category": "General Meeting",
+      "title": "Meeting",
+      "description": "General Meeting",
+      "location": "Dhaka Garden, Jackson Heights",
+      "time": "8:30 PM",
       "petsAllowed":false,
-      "organizer": "Islamic Youth"
+      "Host": "Abraham Parker"
     }
   ]
 }
