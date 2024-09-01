@@ -9,7 +9,8 @@
       "location": "Dhaka Garden Restaurant, Jackson Heights",
       "time": "8:00 PM",
       "petsAllowed":false,
-      "host": "Abraham, Wahidur, and Somrat"
+      "host": "Abraham, Wahidur, and Somrat",
+      "status": "Waiting to ... "
     }
   ]
 }
