@@ -9,7 +9,9 @@
       "location": "John F, Kennedy Airport, Queens, NY",
       "time": "10:30 AM",
       "petsAllowed":false,
-      "organizer": "Patriots of Bangladesh"
+      "organizer": "Patriots of Bangladesh",
+      "host": "Patriot of Bangladesh, USA",
+      "status": "Waiting..."
     }
  
   ]
